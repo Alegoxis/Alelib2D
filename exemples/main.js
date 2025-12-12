@@ -1,4 +1,5 @@
 // *************** Variables **************
+canvas = document.getElementById("canvas");
 
 // *************** Functions *************
 
